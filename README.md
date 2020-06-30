@@ -1,21 +1,16 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/touch.svg?longCache=True)](https://pypi.org/project/touch/)
-[![](https://img.shields.io/pypi/v/touch.svg?maxAge=3600)](https://pypi.org/project/touch/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/touch.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/touch.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/touch.svg?maxAge=3600)](https://pypi.org/project/touch/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/touch.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/touch.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install touch
 ```
-
-#### Functions
-function|`__doc__`
--|-
-`touch.touch(path)` |mkdir + touch path(s)
 
 #### Examples
 ```python
@@ -25,5 +20,5 @@ function|`__doc__`
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>

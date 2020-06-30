@@ -1,6 +1,7 @@
-#!/usr/bin/env python
+__all__ = ['touch']
+
+
 import os
-import public
 import values
 
 
@@ -20,7 +21,6 @@ def _utime(path):
         open(path, 'a').close()
 
 
-@public.add
 def touch(path):
     """mkdir + touch path(s)"""
     for path in values.get(path):
